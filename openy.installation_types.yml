@@ -25,7 +25,6 @@ extended:
 
 complete:
   name: Complete/Developer
-  hidden: true
   packages:
     - activenet
     - alerts
